@@ -9,7 +9,7 @@ around on the provided grid.
 My purpose for writing this was to further my understanding of programing, but mainly to push
 my understanding of video game code, and how to write something like 'movement' from scratch.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EIZ1OUpLNmo)
 
 # Development Environment
 
